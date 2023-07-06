@@ -1,8 +1,3 @@
-/* 
-Buatlah program yang memiliki satu variabel dengan nama “printSegitiga” yg berisi
-tipe data number yang menghasilkan output segitiga terbalik yang berisi angka
-*/
-
 const printSegitiga = 5;
 
 if (typeof printSegitiga === "number") {
